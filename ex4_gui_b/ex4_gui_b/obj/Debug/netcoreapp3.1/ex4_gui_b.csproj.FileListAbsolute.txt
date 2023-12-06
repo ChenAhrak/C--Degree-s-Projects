@@ -1,0 +1,17 @@
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\bin\Debug\netcoreapp3.1\ex4_gui_b.exe
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\bin\Debug\netcoreapp3.1\ex4_gui_b.deps.json
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\bin\Debug\netcoreapp3.1\ex4_gui_b.runtimeconfig.json
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\bin\Debug\netcoreapp3.1\ex4_gui_b.runtimeconfig.dev.json
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\bin\Debug\netcoreapp3.1\ex4_gui_b.dll
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\bin\Debug\netcoreapp3.1\ex4_gui_b.pdb
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.csproj.AssemblyReference.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.Form1.resources
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.csproj.GenerateResource.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.AssemblyInfoInputs.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.AssemblyInfo.cs
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.csproj.CoreCompileInputs.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.dll
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.pdb
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.genruntimeconfig.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\ex4_gui_b\ex4_gui_b\obj\Debug\netcoreapp3.1\ex4_gui_b.Properties.Resources.resources
