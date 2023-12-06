@@ -1,0 +1,21 @@
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.Properties.Resources.resources
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfo.cs
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\bin\Debug\netcoreapp3.1\Ex4.exe
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\bin\Debug\netcoreapp3.1\Ex4.deps.json
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.json
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.dev.json
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\bin\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\bin\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.GarageG1.resources
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.genruntimeconfig.cache
+C:\Users\admin\OneDrive\לימודים\רופין\C#\6 GUI\מטלה 4 GUI\Ex4\obj\Debug\netcoreapp3.1\Ex4.Form2.resources
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.AssemblyReference.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.pdb
