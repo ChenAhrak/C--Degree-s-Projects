@@ -1,0 +1,14 @@
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.csproj.AssemblyReference.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.AssemblyInfoInputs.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.AssemblyInfo.cs
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\bin\Debug\netcoreapp3.1\Ex6.exe
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\bin\Debug\netcoreapp3.1\Ex6.deps.json
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\bin\Debug\netcoreapp3.1\Ex6.runtimeconfig.json
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\bin\Debug\netcoreapp3.1\Ex6.runtimeconfig.dev.json
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\bin\Debug\netcoreapp3.1\Ex6.dll
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\bin\Debug\netcoreapp3.1\Ex6.pdb
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.dll
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.pdb
+C:\Users\chena\OneDrive\שולחן העבודה\מדעי המחשב סמסטר א\שנה א\סמסטר ב\C#\HomeWork\Ex6\Ex6\obj\Debug\netcoreapp3.1\Ex6.genruntimeconfig.cache
